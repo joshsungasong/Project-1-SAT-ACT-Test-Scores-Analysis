@@ -8,5 +8,3 @@ The main findings and recommendations of this project:
 - Convert the test scores into raw percentages (percent of a perfect score) as the SAT and ACT tests are scored differently
 - Collect more granular data as the dataset infers that the test scores of the less populous state such as Connecticut are weighted the same as the test scores of a more populous state such as Texas
 - The SAT test has higher participation rates in regions such as the Northeast, but so much in the Midwest. The opposite is true for the ACT test. I would focus increasing participation rates for the SAT test in the Midwest.
-
-Link to the presentation is here: https://docs.google.com/presentation/d/19DnRoBwgZmD3FU73fT4CbgXTLpPybwBG_QNvZ3I9QxE/edit#slide=id.g327c42c707_0_10 
